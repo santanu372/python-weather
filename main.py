@@ -2,7 +2,7 @@ import requests
 import argparse
 
 # Replace with your own OpenWeatherMap API key
-api_key = "db6dfbf97224a499d8c6738b87339216"
+api_key = ""
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather(city):
